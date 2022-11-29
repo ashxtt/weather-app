@@ -1,4 +1,4 @@
-import React from "react";
+
 export default [
     {
     img: "http://res.cloudinary.com/jkeohan/image/upload/v1535732381/day.svg", 

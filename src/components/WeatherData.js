@@ -1,7 +1,6 @@
-
 const WeatherData = (props) =>{
     return(
-        <div className="wd">
+        <div>
             <p><span>conditions:</span>{props.conditons}</p>
             <p><span>time:</span>{props.time}</p>
         </div>
